@@ -16,6 +16,7 @@ cmake-build-debug/
 /install
 .DS_Store
 .pydevproject
-.vscode/
 .vs/
 Testing/
+config.bat
+node_modules
